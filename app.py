@@ -30,7 +30,6 @@ MODEL_TO_20 = {
     "Hematology": "Hematologist",
     "Allergy": "Allergist / Immunologist",
     "Pediatrics": "Pediatrician",
-    "Microbiology": "Infectious Disease Specialist",
 }
 
 def map_to_specialist(model_label: str) -> str:
