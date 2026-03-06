@@ -46,6 +46,7 @@ CANONICAL_TERMS = {
     "anxiety", "depression", "insomnia",
     "high blood sugar", "low blood sugar", "thyroid problem",
     "fever", "fatigue"
+    "bloating","high blood pressure","urinary tract infection","acne","facial pressure","post nasal drip",
 }
 
 ALIASES_TO_CANONICAL = {
@@ -103,6 +104,14 @@ def _basic_clean(text: str) -> str:
     text = re.sub(r"\s+", " ", text).strip()
     return text
 
+def extract_canonical_terms(text: str):
+    found_terms = []
+    for term in sorted(CANONICAL_TERMS, key=len, reverse=True):
+        if re.search(rf"\b{re.escape(term)}\b", text):
+            found_terms.append(term)
+    # de-dup while preserving order
+    return list(dict.fromkeys(found_terms))
+
 def normalize_symptoms(symptoms: str) -> str:
     s = _basic_clean(symptoms)
 
@@ -118,6 +127,12 @@ def normalize_symptoms(symptoms: str) -> str:
         if "facial pressure" not in s:
             s += " facial pressure"
 
+    canonical_found = extract_canonical_terms(s)
+
+    # Keep original normalized text, but reinforce canonical terms for the model
+    if canonical_found:
+        s = s + " | canonical: " + ", ".join(canonical_found)
+
     return s.strip()
 
 def build_text(age, gender, symptoms, severity, duration):
@@ -128,7 +143,6 @@ def build_text(age, gender, symptoms, severity, duration):
 
 app = FastAPI(title="Specialist Recommender API", version="1.0.0")
 
-# ✅ ADD THIS
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],   # for testing only
@@ -208,9 +222,6 @@ def recommend(req: RecommendRequest):
 
         model_label = model.config.id2label[int(pred_id.item())]
         specialist = map_to_specialist(model_label)
-
-        if req.age < 16 and specialist == "Pediatrician":
-            specialist = "Pediatrician"
 
         return RecommendResponse(
             recommended_specialist=specialist,

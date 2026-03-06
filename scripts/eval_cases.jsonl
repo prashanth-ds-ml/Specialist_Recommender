@@ -1,0 +1,100 @@
+{"case_id": "CASE_0001", "age": 29, "gender": "f", "symptoms": "acne on face, painful pimples, oily skin", "severity": 7, "duration": "2 weeks"}
+{"case_id": "CASE_0002", "age": 41, "gender": "female", "symptoms": "loose motions, abdominal cramps, dehydration", "severity": 4, "duration": "3 days"}
+{"case_id": "CASE_0003", "age": 50, "gender": "f", "symptoms": "recurrent infections, fatigue, weight loss", "severity": 9, "duration": "10 days"}
+{"case_id": "CASE_0004", "age": 39, "gender": "male", "symptoms": "depression, low mood, loss of interest, fatigue", "severity": 6, "duration": "2 weeks"}
+{"case_id": "CASE_0005", "age": 20, "gender": "f", "symptoms": "irregular periods, lower abdominal pain, mood changes", "severity": 3, "duration": "2 months"}
+{"case_id": "CASE_0006", "age": 45, "gender": "female", "symptoms": "swelling in legs, fatigue, decreased urine output", "severity": 5, "duration": "10 days"}
+{"case_id": "CASE_0007", "age": 54, "gender": "female", "symptoms": "numbness in one arm, weakness, difficulty speaking", "severity": 6, "duration": "1 day"}
+{"case_id": "CASE_0008", "age": 42, "gender": "f", "symptoms": "persistent pain, unexplained bleeding, weakness", "severity": 5, "duration": "5 days"}
+{"case_id": "CASE_0009", "age": 62, "gender": "male", "symptoms": "recurrent infections, fatigue, weight loss", "severity": 5, "duration": "5 days"}
+{"case_id": "CASE_0010", "age": 48, "gender": "male", "symptoms": "persistent cough, wheezing, shortness of breath", "severity": 8, "duration": "2 months"}
+{"case_id": "CASE_0011", "age": 35, "gender": "male", "symptoms": "skin hives, itching after food, swelling", "severity": 4, "duration": "3 days"}
+{"case_id": "CASE_0012", "age": 50, "gender": "m", "symptoms": "itchy eyes, watering, sneezing", "severity": 5, "duration": "1 day"}
+{"case_id": "CASE_0013", "age": 2, "gender": "f", "symptoms": "child has rash, fever, itching", "severity": 3, "duration": "1 day"}
+{"case_id": "CASE_0014", "age": 31, "gender": "m", "symptoms": "fever, fatigue, body aches", "severity": 7, "duration": "2 weeks"}
+{"case_id": "CASE_0015", "age": 39, "gender": "male", "symptoms": "easy bruising, bleeding gums, weakness", "severity": 8, "duration": "3 weeks"}
+{"case_id": "CASE_0016", "age": 26, "gender": "f", "symptoms": "pain while urinating, urgency, fever", "severity": 3, "duration": "3 weeks"}
+{"case_id": "CASE_0017", "age": 64, "gender": "male", "symptoms": "itchy eyes, watering, sneezing", "severity": 5, "duration": "2 months"}
+{"case_id": "CASE_0018", "age": 57, "gender": "f", "symptoms": "seasonal allergy, nasal congestion, cough", "severity": 6, "duration": "2 weeks"}
+{"case_id": "CASE_0019", "age": 42, "gender": "male", "symptoms": "palpitations, dizziness, chest tightness", "severity": 5, "duration": "1 week"}
+{"case_id": "CASE_0020", "age": 17, "gender": "male", "symptoms": "headache, mild fever, sore throat", "severity": 2, "duration": "2 days"}
+{"case_id": "CASE_0021", "age": 61, "gender": "m", "symptoms": "low blood sugar, sweating, dizziness, shaking", "severity": 2, "duration": "1 day"}
+{"case_id": "CASE_0022", "age": 37, "gender": "m", "symptoms": "shortness of breath on walking, dry cough, fatigue", "severity": 4, "duration": "2 months"}
+{"case_id": "CASE_0023", "age": 66, "gender": "male", "symptoms": "lump in neck, night sweats, fever", "severity": 9, "duration": "1 month"}
+{"case_id": "CASE_0024", "age": 46, "gender": "male", "symptoms": "seizure episode, confusion afterwards", "severity": 8, "duration": "10 days"}
+{"case_id": "CASE_0025", "age": 28, "gender": "m", "symptoms": "itchy rash on arms, redness, dry skin", "severity": 7, "duration": "10 days"}
+{"case_id": "CASE_0026", "age": 38, "gender": "female", "symptoms": "thyroid problem, weight loss, palpitations, anxiety", "severity": 5, "duration": "1 day"}
+{"case_id": "CASE_0027", "age": 59, "gender": "m", "symptoms": "burning urination, frequent urination, lower abdominal pain", "severity": 5, "duration": "1 week"}
+{"case_id": "CASE_0028", "age": 67, "gender": "m", "symptoms": "blood in urine, flank pain, nausea", "severity": 3, "duration": "4 days"}
+{"case_id": "CASE_0029", "age": 50, "gender": "female", "symptoms": "low blood sugar, sweating, dizziness, shaking", "severity": 5, "duration": "3 days"}
+{"case_id": "CASE_0030", "age": 33, "gender": "female", "symptoms": "back pain, stiffness, improves with movement", "severity": 8, "duration": "2 days"}
+{"case_id": "CASE_0031", "age": 32, "gender": "woman", "symptoms": "irregular periods, lower abdominal pain, mood changes", "severity": 2, "duration": "2 months"}
+{"case_id": "CASE_0032", "age": 50, "gender": "m", "symptoms": "anxiety, palpitations, restlessness, insomnia", "severity": 8, "duration": "4 days"}
+{"case_id": "CASE_0033", "age": 26, "gender": "female", "symptoms": "wheezing, chest tightness, breathlessness at night", "severity": 5, "duration": "4 days"}
+{"case_id": "CASE_0034", "age": 41, "gender": "m", "symptoms": "back pain, shooting pain down leg, numbness", "severity": 5, "duration": "1 day"}
+{"case_id": "CASE_0035", "age": 7, "gender": "f", "symptoms": "baby has poor feeding, fever, irritability", "severity": 4, "duration": "10 days"}
+{"case_id": "CASE_0036", "age": 60, "gender": "female", "symptoms": "back pain, shooting pain down leg, numbness", "severity": 3, "duration": "5 days"}
+{"case_id": "CASE_0037", "age": 29, "gender": "m", "symptoms": "abdominal pain, acidity, nausea after meals", "severity": 7, "duration": "1 week"}
+{"case_id": "CASE_0038", "age": 19, "gender": "m", "symptoms": "multiple joint pain, swelling, fever", "severity": 6, "duration": "3 weeks"}
+{"case_id": "CASE_0039", "age": 26, "gender": "m", "symptoms": "anxiety, palpitations, restlessness, insomnia", "severity": 8, "duration": "3 days"}
+{"case_id": "CASE_0040", "age": 39, "gender": "m", "symptoms": "high blood pressure, frothy urine, weakness", "severity": 5, "duration": "2 days"}
+{"case_id": "CASE_0041", "age": 15, "gender": "male", "symptoms": "child has fever, cough, runny nose", "severity": 6, "duration": "2 days"}
+{"case_id": "CASE_0042", "age": 42, "gender": "f", "symptoms": "skin allergy, itching, hives after food", "severity": 3, "duration": "2 months"}
+{"case_id": "CASE_0043", "age": 61, "gender": "f", "symptoms": "dizziness, vertigo, imbalance while walking", "severity": 4, "duration": "10 days"}
+{"case_id": "CASE_0044", "age": 24, "gender": "f", "symptoms": "wheezing, chest tightness, breathlessness at night", "severity": 4, "duration": "2 days"}
+{"case_id": "CASE_0045", "age": 16, "gender": "female", "symptoms": "fever, fatigue, body aches", "severity": 2, "duration": "3 weeks"}
+{"case_id": "CASE_0046", "age": 29, "gender": "f", "symptoms": "depression, low mood, loss of interest, fatigue", "severity": 4, "duration": "2 days"}
+{"case_id": "CASE_0047", "age": 31, "gender": "f", "symptoms": "skin allergy, itching, hives after food", "severity": 3, "duration": "2 weeks"}
+{"case_id": "CASE_0048", "age": 69, "gender": "f", "symptoms": "abdominal pain, acidity, nausea after meals", "severity": 7, "duration": "3 weeks"}
+{"case_id": "CASE_0049", "age": 35, "gender": "m", "symptoms": "blood in urine, flank pain, nausea", "severity": 4, "duration": "2 days"}
+{"case_id": "CASE_0050", "age": 41, "gender": "male", "symptoms": "fever, night sweats, swollen lymph nodes", "severity": 7, "duration": "1 month"}
+{"case_id": "CASE_0051", "age": 29, "gender": "f", "symptoms": "acne on face, painful pimples, oily skin", "severity": 7, "duration": "2 months"}
+{"case_id": "CASE_0052", "age": 45, "gender": "female", "symptoms": "vaginal itching, discharge, burning sensation", "severity": 4, "duration": "1 day"}
+{"case_id": "CASE_0053", "age": 21, "gender": "female", "symptoms": "cough with phlegm, fever, chest congestion", "severity": 2, "duration": "1 day"}
+{"case_id": "CASE_0054", "age": 56, "gender": "male", "symptoms": "persistent pain, unexplained bleeding, weakness", "severity": 6, "duration": "2 weeks"}
+{"case_id": "CASE_0055", "age": 51, "gender": "female", "symptoms": "sneezing, runny nose, itchy eyes, dust allergy", "severity": 2, "duration": "2 days"}
+{"case_id": "CASE_0056", "age": 44, "gender": "m", "symptoms": "shortness of breath, swelling in legs, fatigue", "severity": 9, "duration": "3 weeks"}
+{"case_id": "CASE_0057", "age": 25, "gender": "female", "symptoms": "dizziness, vertigo, imbalance while walking", "severity": 2, "duration": "5 days"}
+{"case_id": "CASE_0058", "age": 39, "gender": "m", "symptoms": "thyroid problem, weight gain, fatigue, constipation", "severity": 3, "duration": "2 months"}
+{"case_id": "CASE_0059", "age": 31, "gender": "m", "symptoms": "constipation, abdominal discomfort, bloating", "severity": 8, "duration": "3 weeks"}
+{"case_id": "CASE_0060", "age": 42, "gender": "male", "symptoms": "sore throat, fever, difficulty swallowing", "severity": 8, "duration": "3 days"}
+{"case_id": "CASE_0061", "age": 67, "gender": "male", "symptoms": "runny nose, blocked nose, sneezing", "severity": 2, "duration": "3 days"}
+{"case_id": "CASE_0062", "age": 63, "gender": "f", "symptoms": "runny nose, blocked nose, sneezing", "severity": 8, "duration": "2 months"}
+{"case_id": "CASE_0063", "age": 63, "gender": "male", "symptoms": "shoulder pain, reduced range of motion", "severity": 3, "duration": "2 days"}
+{"case_id": "CASE_0064", "age": 40, "gender": "m", "symptoms": "sudden vision changes, floaters, flashes", "severity": 3, "duration": "4 days"}
+{"case_id": "CASE_0065", "age": 68, "gender": "female", "symptoms": "shoulder pain, reduced range of motion", "severity": 4, "duration": "4 days"}
+{"case_id": "CASE_0066", "age": 49, "gender": "m", "symptoms": "palpitations, dizziness, chest tightness", "severity": 8, "duration": "1 week"}
+{"case_id": "CASE_0067", "age": 33, "gender": "m", "symptoms": "constipation, abdominal discomfort, bloating", "severity": 4, "duration": "2 months"}
+{"case_id": "CASE_0068", "age": 48, "gender": "female", "symptoms": "ear pain, ear discharge, reduced hearing", "severity": 2, "duration": "2 days"}
+{"case_id": "CASE_0069", "age": 32, "gender": "male", "symptoms": "joint pain, fatigue, rash, mouth ulcers", "severity": 2, "duration": "2 days"}
+{"case_id": "CASE_0070", "age": 54, "gender": "female", "symptoms": "numbness in one arm, weakness, difficulty speaking", "severity": 7, "duration": "1 week"}
+{"case_id": "CASE_0071", "age": 62, "gender": "m", "symptoms": "chest discomfort, left arm pain, nausea", "severity": 9, "duration": "4 days"}
+{"case_id": "CASE_0072", "age": 51, "gender": "m", "symptoms": "chest discomfort, left arm pain, nausea", "severity": 5, "duration": "3 weeks"}
+{"case_id": "CASE_0073", "age": 69, "gender": "male", "symptoms": "shortness of breath, swelling in legs, fatigue", "severity": 8, "duration": "2 days"}
+{"case_id": "CASE_0074", "age": 11, "gender": "f", "symptoms": "child has rash, fever, itching", "severity": 7, "duration": "2 days"}
+{"case_id": "CASE_0075", "age": 54, "gender": "f", "symptoms": "recurrent infections, fatigue, weight loss", "severity": 7, "duration": "10 days"}
+{"case_id": "CASE_0076", "age": 53, "gender": "male", "symptoms": "lump in neck, night sweats, fever", "severity": 8, "duration": "2 months"}
+{"case_id": "CASE_0077", "age": 40, "gender": "male", "symptoms": "shoulder pain, reduced range of motion", "severity": 5, "duration": "3 weeks"}
+{"case_id": "CASE_0078", "age": 69, "gender": "m", "symptoms": "joint pain, fatigue, rash, mouth ulcers", "severity": 4, "duration": "4 days"}
+{"case_id": "CASE_0079", "age": 31, "gender": "woman", "symptoms": "missed period, nausea, vomiting, breast tenderness", "severity": 5, "duration": "2 weeks"}
+{"case_id": "CASE_0080", "age": 44, "gender": "male", "symptoms": "seizure episode, confusion afterwards", "severity": 8, "duration": "3 days"}
+{"case_id": "CASE_0081", "age": 58, "gender": "m", "symptoms": "difficulty urinating, weak urine stream, frequent urination at night", "severity": 6, "duration": "2 months"}
+{"case_id": "CASE_0082", "age": 56, "gender": "f", "symptoms": "eye pain, redness, watery eyes, sensitivity to light", "severity": 8, "duration": "4 days"}
+{"case_id": "CASE_0083", "age": 39, "gender": "female", "symptoms": "heavy menstrual bleeding, fatigue, dizziness", "severity": 8, "duration": "4 days"}
+{"case_id": "CASE_0084", "age": 44, "gender": "m", "symptoms": "swelling in legs, fatigue, decreased urine output", "severity": 3, "duration": "2 weeks"}
+{"case_id": "CASE_0085", "age": 55, "gender": "m", "symptoms": "wheezing, chest tightness, breathlessness at night", "severity": 5, "duration": "2 months"}
+{"case_id": "CASE_0086", "age": 52, "gender": "male", "symptoms": "scaly patches on scalp, itching", "severity": 5, "duration": "10 days"}
+{"case_id": "CASE_0087", "age": 31, "gender": "male", "symptoms": "sneezing, runny nose, itchy eyes, dust allergy", "severity": 8, "duration": "2 days"}
+{"case_id": "CASE_0088", "age": 65, "gender": "female", "symptoms": "headache, mild fever, sore throat", "severity": 3, "duration": "3 weeks"}
+{"case_id": "CASE_0089", "age": 45, "gender": "m", "symptoms": "low blood sugar, sweating, dizziness, shaking", "severity": 8, "duration": "2 days"}
+{"case_id": "CASE_0090", "age": 64, "gender": "male", "symptoms": "blood in urine, fatigue, loss of appetite", "severity": 7, "duration": "3 weeks"}
+{"case_id": "CASE_0091", "age": 51, "gender": "f", "symptoms": "sudden vision changes, floaters, flashes", "severity": 6, "duration": "3 weeks"}
+{"case_id": "CASE_0092", "age": 62, "gender": "female", "symptoms": "lump in neck, night sweats, fever", "severity": 8, "duration": "2 weeks"}
+{"case_id": "CASE_0093", "age": 5, "gender": "male", "symptoms": "child has rash, fever, itching", "severity": 8, "duration": "3 weeks"}
+{"case_id": "CASE_0094", "age": 47, "gender": "male", "symptoms": "insomnia, racing thoughts, irritability", "severity": 5, "duration": "2 days"}
+{"case_id": "CASE_0095", "age": 53, "gender": "male", "symptoms": "flank pain, fever, urinary tract infection symptoms", "severity": 4, "duration": "1 week"}
+{"case_id": "CASE_0096", "age": 50, "gender": "m", "symptoms": "skin hives, itching after food, swelling", "severity": 3, "duration": "4 days"}
+{"case_id": "CASE_0097", "age": 40, "gender": "male", "symptoms": "headache, mild fever, sore throat", "severity": 2, "duration": "10 days"}
+{"case_id": "CASE_0098", "age": 42, "gender": "f", "symptoms": "vomiting, nausea, stomach pain", "severity": 5, "duration": "1 day"}
+{"case_id": "CASE_0099", "age": 29, "gender": "female", "symptoms": "multiple joint pain, swelling, fever", "severity": 8, "duration": "1 month"}
+{"case_id": "CASE_0100", "age": 60, "gender": "m", "symptoms": "runny nose, blocked nose, sneezing", "severity": 5, "duration": "1 day"}

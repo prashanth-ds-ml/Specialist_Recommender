@@ -33,7 +33,6 @@ MODEL_TO_20 = {
     "Hematology": "Hematologist",
     "Allergy": "Allergist / Immunologist",
     "Pediatrics": "Pediatrician",
-    "Microbiology": "Infectious Disease Specialist",
 }
 
 def map_to_20(model_label):
@@ -42,7 +41,7 @@ def map_to_20(model_label):
 # ---- Test Input ----
 age = 34
 gender = "male"
-symptoms = "chest tightness and shortness of breath"
+symptoms = "pain in left knee joint and back pain, headache"
 severity = 8
 duration = "2 hours"
 

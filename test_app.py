@@ -43,7 +43,19 @@ try:
 
     try:
         data = response.json()
-        print(json.dumps(data, indent=2))
+
+        # If API returned an error body
+        if response.status_code != 200:
+            print(json.dumps(data, indent=2))
+        else:
+            print("\nPRIMARY RECOMMENDATION")
+            print(f"Specialist : {data.get('recommended_specialist')}")
+            print(f"Confidence : {data.get('confidence')}")
+            print(f"Model label: {data.get('model_label')}")
+
+            print("\nNORMALIZED SYMPTOMS")
+            print(data.get("normalized_symptoms", ""))
+
     except Exception:
         print(response.text)
 
